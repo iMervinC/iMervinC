@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Mervin
 #### Aspiring Web Developer
-![Aspiring Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Aspiring Web Developer](https://github.com/iMervinC/iMervinC/blob/main/portfolio.jpg)
 
 I've been learning Web Development since I got out of college just for fun and I'm still doing it today! 
 
