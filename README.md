@@ -1,4 +1,4 @@
-![Aspiring Web Developer](https://github.com/iMervinC/iMervinC/blob/main/portfolio%20(1).jpg)
+![Aspiring Web Developer](https://github.com/iMervinC/iMervinC/blob/main/banner.gif)
 ### Hi there 👋, I am Mervin
 #### Aspiring Web Developer
 
