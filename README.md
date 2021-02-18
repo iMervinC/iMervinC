@@ -15,16 +15,11 @@ Skills: REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iMervinc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/iMervinc)  
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imervinc&show_icons=true&hide_border=true" />
+  <img align="left" alt="Mervin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imervinc&show_icons=true&&hide_border=true&prs&cache_seconds=86400&theme=tokyonight" />
+  
 
-</details>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imervinc&layout=compact" />
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imervinc" />
 
-</details>
