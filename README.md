@@ -23,6 +23,6 @@ Skills: REACT / JS / HTML / CSS
 
 <details>
   <summary>:zap: Most Used Language</summary>
-<img align="right" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imervinc&layout=compact" />
+<img align="left" alt="Mervin's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imervinc&layout=compact&theme=tokyonight&hide_border=true" />
 </details>
 
