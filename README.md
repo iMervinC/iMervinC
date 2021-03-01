@@ -18,11 +18,11 @@ Skills: REACT / JS / HTML / CSS
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-<img align="left" alt="Mervin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imervinc&show_icons=true&&hide_border=true&prs&cache_seconds=86400&theme=tokyonight" />
+<img  alt="Mervin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imervinc&show_icons=true&&hide_border=true&prs&cache_seconds=86400&theme=tokyonight" />
   </details>
 
 <details>
   <summary>:zap: Most Used Language</summary>
-<img align="left" alt="Mervin's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imervinc&layout=compact&theme=tokyonight&hide_border=true" />
+<img  alt="Mervin's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imervinc&layout=compact&theme=tokyonight&hide_border=true" />
 </details>
 
