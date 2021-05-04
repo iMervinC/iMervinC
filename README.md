@@ -6,9 +6,9 @@ I've been learning Web Development since I got out of college just for fun and I
 
 I'm focusing on frontend development and React is my jam right now and I'm learning Typescript and Next.js for a more leveled up apps I'll be making.
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS  / TS / HTML / CSS
 
-- 🔭 I’m currently working on my Personal Web Portfolio 
+- 🔭 I’m currently hack with Apollo Client and Server
 - 🌱 I’m currently learning Next.js and Typescript 
 - ⚡ Fun fact: Like fingerprints, everyone's tongue print is different. 
 
