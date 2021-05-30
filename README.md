@@ -18,7 +18,6 @@ Skills:<code><img height="20" src="https://raw.githubusercontent.com/github/expl
 
 - 🔭 I’m currently hack with Apollo Client and Server
 - 🌱 I’m currently learning Anything and Everthing
-- ⚡ Fun fact: Like fingerprints, everyone's tongue print is different. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iMervinc) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/iMervinc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iMervinC)  [<img src='https://www.vectorlogo.zone/logos/devto/devto-ar21.svg' alt='twitter' height='40'>](https://twitter.com/iMervinC)  
