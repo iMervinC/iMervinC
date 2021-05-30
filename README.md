@@ -4,7 +4,9 @@
 
 I've been learning Web Development since I got out of college just for fun and I'm still doing it today! 
 
-I'm focusing on frontend development and React is my jam right now and I'm learning Typescript and Next.js for a more leveled up apps I'll be making.
+I'm focusing on frontend development and React is my jam right now and I'm learning Typescript and Next.js for a more leveled up apps I'll be making. 
+
+Also making fullstack apps
 
 Skills:<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -15,11 +17,13 @@ Skills:<code><img height="20" src="https://raw.githubusercontent.com/github/expl
 
 
 - 🔭 I’m currently hack with Apollo Client and Server
-- 🌱 I’m currently learning Next.js and Typescript 
+- 🌱 I’m currently learning Anything and Everthing
 - ⚡ Fun fact: Like fingerprints, everyone's tongue print is different. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iMervinc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/iMervinc)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iMervinc) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/iMervinc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iMervinC)  [<img src='https://www.vectorlogo.zone/logos/devto/devto-ar21.svg' alt='twitter' height='40'>](https://twitter.com/iMervinC)  
+
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
