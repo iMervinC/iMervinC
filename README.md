@@ -16,7 +16,7 @@ Skills:<code><img height="20" src="https://raw.githubusercontent.com/github/expl
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 
-- 🔭 I’m currently Hacking React Native, and Unit Testing using Jest
+- 🔭 I’m currently Hacking Integration Testing, and Unit Testing using Jest
 - 🌱 I’m currently learning Anything and Everthing
 
 
